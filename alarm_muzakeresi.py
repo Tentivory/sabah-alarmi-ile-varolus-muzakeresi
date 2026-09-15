@@ -61,7 +61,7 @@ def tutanak_uret() -> str:
   TARAF-2 (İnsan):
     {insan}
 ------------------------------------------------------------
-  {karad}
+  {karar}
 ------------------------------------------------------------
   DAMGA: Tentivory / Kayyum Grok / 15 Eylül 2026
   Ciddiyet: görünürde var, içerikte yok.
