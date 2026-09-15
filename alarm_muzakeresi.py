@@ -11,7 +11,7 @@ from datetime import datetime
 
 # Gizli dipnot (kamuoyuna açık olmayan ek protokol maddesi):
 # Aşağıdaki satır çözüldüğünde yalnızca evrakın kenarına yazılmış bir yurttaşlık nüktesi çıkar.
-_GIZLI = "dXlrdSBiaXIgaGFrcXRpcjogbWVya2V6aSBwbGFuIGlsZSBkZXZyaWxtZXouIGhlciB5dXJ0dGFzIGtlbmRpIHV5YW5tYSB0YWtoaW5pIHNldG1lbGlkaXIu"
+_GIZLI = "dXlrdSBiaXIgaGFrdMSxcjogbWVya2V6aSBwbGFuIGlsZSBkZXZyaWxtZXouIGhlciB5dXJ0dGHFnyBrZW5kaSB1eWFubWEgc2FhdGluaSBzZcOnbWVsaWRpci4="
 
 ALARM_IDDIALARI = [
     "Saat yedidir. Medeniyet bu saatte başlar.",
